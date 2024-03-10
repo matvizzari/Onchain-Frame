@@ -12,9 +12,9 @@ app.get('/', (req, res) => {
         <html>
             <head>
                 <title>Frame Test</title>
-                <meta property="og:image" content="https://twitter.com/onchaincoin/status/1766404543296725122/photo/1" />
+                <meta property="og:image" content="https://pbs.twimg.com/media/GIJqR1gXsAAdLwc?format=jpg&name=large" />
                 <meta property="fc:frame" content="vNext" />
-                <meta property="fc:frame:image" content="https://twitter.com/onchaincoin/status/1766404543296725122/photo/1" />
+                <meta property="fc:frame:image" content="https://pbs.twimg.com/media/GIJqR1gXsAAdLwc?format=jpg&name=large" />
                 <meta property="fc:frame:button:1" content="Link X" />
                 <meta property="fc:frame:button:1:action" content="link" />
                 <meta property="fc:frame:button:1:target" content="https://twitter.com/onchaincoin"/>
